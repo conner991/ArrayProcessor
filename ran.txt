@@ -1,0 +1,9 @@
+Input File: Random.txt
+
+No. Points: 200
+The Min is: 7
+The Max is: 1000
+The Avg is: 527.635
+Std Dev is: 285.127
+Median  is: 539
+Modes  are: 351

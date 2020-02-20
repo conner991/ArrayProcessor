@@ -1,0 +1,9 @@
+Input File: normal_dist.txt
+
+No. Points: 197
+The Min is: 23
+The Max is: 944
+The Avg is: 458.67
+Std Dev is: 189.541
+Median  is: 447
+Modes  are: 447
